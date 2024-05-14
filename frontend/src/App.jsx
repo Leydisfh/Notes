@@ -79,7 +79,6 @@ const handleSubmit =(event) =>{
 const notesToShow = showAll 
                   ? notes 
                   : notes.filter( note => note.important)
-
   return (
     <>
       <h1>Notas</h1>
