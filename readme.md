@@ -56,9 +56,8 @@ app.use(cors());
 
 <pre>
 <code>
-//Middleware
-app.use(cors()) // Para que se pueda hacer peticiones desde otro servidor
-`app.use(express.static('dist')) // Para que se pueda acceder a la carpeta dist`
-app.use(express.json()) // Para que se pueda leer el body de la peticion post
+app.use(cors()) 
+<em> app.use(express.static('dist')) Para que se pueda acceder a la carpeta dist </em>
+app.use(express.json()) 
 </code>
 </pre>
