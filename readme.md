@@ -1,7 +1,7 @@
  Vamos a comunicar el front con el backend de nuestro proyecto
  
  ## Frontend
- 1. Iciamos el proyecto con Vite y hacemos los pasos correspondientes como el npm install para instalar los modulos de node
+ 1. Iniciamos el proyecto con Vite y hacemos los pasos correspondientes como el npm install para instalar los modulos de node
  2. Realizamos nuestro codigo normal
 
 
